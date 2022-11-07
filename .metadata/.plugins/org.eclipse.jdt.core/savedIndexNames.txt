@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\rafak\OneDrive - Universidade Feevale\Feevale\Ciencias da computacao Sem2\Programação\.metadata\.plugins\org.eclipse.jdt.core
+67998420.index
+3927496509.index
+3883950653.index
